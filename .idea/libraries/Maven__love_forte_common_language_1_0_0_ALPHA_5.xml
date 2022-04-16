@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: love.forte.common:language:1.0.0-ALPHA.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../repository/love/forte/common/language/1.0.0-ALPHA.5/language-1.0.0-ALPHA.5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../repository/love/forte/common/language/1.0.0-ALPHA.5/language-1.0.0-ALPHA.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../repository/love/forte/common/language/1.0.0-ALPHA.5/language-1.0.0-ALPHA.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
